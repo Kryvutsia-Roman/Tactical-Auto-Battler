@@ -110,7 +110,6 @@ npm run build
 ```
 
 Для локального перегляду production-збірки:
-
 ```bash
 npm run preview
 ```
